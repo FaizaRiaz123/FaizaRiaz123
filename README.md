@@ -1,11 +1,72 @@
-# Welcome to Faiza's GitHub! 🌟
+# 👋 Hi, I'm Faiza — Data Analyst | Dashboard Builder | Problem Solver
 
-## About Me 👋
-I'm Faiza, a passionate learner diving deep into the world of Data Analysis and Data Science. With a strong foundation in Python, OOP, web scraping, and data manipulation, I'm on a journey to become a skilled Data Scientist. These days, I'm particularly excited about web scraping with tools like BeautifulSoup and Scrapy, and exploring Python libraries.
+I turn raw data into clear stories, dashboards, and insights that help businesses make *smarter decisions*.
 
-## Current Focus
-- Building projects that showcase my learning.
-- Learn more about data visualization and exploring data analysis methods.
-- Connecting with the coding community and sharing my learning journey.
+With strong skills in **Excel, Power BI, SQL, and Python**, I specialize in:
+- 📊 Data Cleaning & Analysis  
+- 📈 Interactive Dashboards & Business Reporting  
+- 🗄️ SQL-Based Insights & Query Optimization  
+- 🐍 Python for EDA & Predictive Modeling  
 
-I'm new to GitHub and would appreciate any guidance or assistance as I navigate this platform!🙂
+I’m currently open to **remote data analyst opportunities**, freelance projects, and collaborations.
+
+---
+
+## 🚀 What I Do
+
+### 🔹 Data Analysis & Reporting  
+I transform messy datasets into meaningful information using:
+- **Excel** → Pivot tables, Power Query, financial reporting  
+- **Power BI** → Interactive dashboards, DAX, data modeling  
+- **Python** → Pandas, NumPy, Matplotlib, APIs  
+- **SQL** → Joins, Stored Procedures, analytic functions, data extraction  
+
+### 🔹 Business Insights & Decision Support  
+I help companies answer the key questions:
+- Why are sales dropping?  
+- Which product line performs best?  
+- What do the trends say about the next quarter?  
+- Where can we reduce cost or optimize performance?  
+
+### 🔹 Automation & Process Improvement  
+I build workflows that save hours every week —  
+so teams can focus on *strategy*, not repetitive tasks.
+
+---
+
+## ⭐ Featured Projects
+
+### 📊 **Power BI Survey Dashboard**
+Interactive dashboard analyzing global data professionals' salary, skills, and job trends.
+
+### 🤖 **AI Career Guide Chatbot (Hackathon — Top 10 Finalist)**
+A generative AI chatbot that provides personalized career paths, learning roadmaps, and resources.
+
+---
+
+## 🛠 Tech Stack
+
+| Category | Tools |
+|---------|-------|
+| **Data Analysis** | Excel, Python (Pandas, NumPy) |
+| **BI & Dashboards** | Power BI |
+| **Databases** | SQL (MySQL, SQLite) |
+| **AI & Automation** |Streamlit, API integration |
+| **Version Control** | Git, GitHub |
+
+---
+
+## 📫 Let's Connect
+
+I’m always open to opportunities where I can help businesses grow using data.
+
+- 💼 **Looking for:** Remote roles, freelance projects  
+- 📧 **Email:** *faiza9357a@gmail.com*  
+- 🔗 **LinkedIn:** *www.linkedin.com/in/faizariazanalytics*  
+- 🌐 **Portfolio:** *Coming soon*  
+
+If you're a **recruiter, business owner, or hiring manager**, feel free to reach out —  
+I'd love to support your team with clean data, clear insights, and reliable reporting.
+
+---
+ 
