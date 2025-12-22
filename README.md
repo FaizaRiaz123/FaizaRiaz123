@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Faiza — Data Analyst | Dashboard Builder | Problem Solver
+# 👋 Hi, I'm Faiza! Data Analyst | Dashboard Builder | Problem Solver
 
 I turn raw data into clear stories, dashboards, and insights that help businesses make *smarter decisions*.
 
@@ -35,6 +35,9 @@ so teams can focus on *strategy*, not repetitive tasks.
 ---
 
 ## ⭐ Featured Projects
+
+### 📊 **Excel Financial Dashboard**
+This project includes a fully linked Income Statement, Balance Sheet, and an interactive Financial Dashboard for tracking revenue, expenses, profit, AR/AP, and spending categories.
 
 ### 📊 **Power BI Survey Dashboard**
 Interactive dashboard analyzing global data professionals' salary, skills, and job trends.
