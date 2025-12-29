@@ -29,20 +29,20 @@ I help companies answer the key questions:
 - Where can we reduce cost or optimize performance?  
 
 ### 🔹 Automation & Process Improvement  
-I build workflows that save hours every week —  
+I build workflows that save hours every week; 
 so teams can focus on *strategy*, not repetitive tasks.
 
 ---
 
 ## ⭐ Featured Projects
 
-### 📊 **Excel Financial Dashboard**
+### 📊 [Excel Financial Dashboard](https://github.com/FaizaRiaz123/excel-financial-dashboard-project)
 This project includes a fully linked Income Statement, Balance Sheet, and an interactive Financial Dashboard for tracking revenue, expenses, profit, AR/AP, and spending categories.
 
-### 📊 **Power BI Survey Dashboard**
+### 📊 [Power BI Survey Dashboard](https://github.com/FaizaRiaz123/powerbi-data-professional-survey-analysis)
 Interactive dashboard analyzing global data professionals' salary, skills, and job trends.
 
-### 🤖 **AI Career Guide Chatbot (Hackathon — Top 10 Finalist)**
+### 🤖 [AI Career Guide Chatbot (Hackathon Top 10 Finalist)](https://github.com/FaizaRiaz123/career-guide-ai)
 A generative AI chatbot that provides personalized career paths, learning roadmaps, and resources.
 
 ---
@@ -68,7 +68,7 @@ I’m always open to opportunities where I can help businesses grow using data.
 - 🔗 **LinkedIn:** *www.linkedin.com/in/faizariazanalytics*  
 - 🌐 **Portfolio:** *Coming soon*  
 
-If you're a **recruiter, business owner, or hiring manager**, feel free to reach out —  
+If you're a **recruiter, business owner, or hiring manager**, feel free to reach out;  
 I'd love to support your team with clean data, clear insights, and reliable reporting.
 
 ---
