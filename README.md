@@ -66,7 +66,7 @@ I’m always open to opportunities where I can help businesses grow using data.
 - 💼 **Looking for:** Remote roles, freelance projects  
 - 📧 **Email:** *faiza9357a@gmail.com*  
 - 🔗 **LinkedIn:** *www.linkedin.com/in/faizariazanalytics*  
-- 🌐 **Portfolio:** *Coming soon*  
+- 🌐 **Portfolio:** *https://faizariaz123.github.io*  
 
 If you're a **recruiter, business owner, or hiring manager**, feel free to reach out;  
 I'd love to support your team with clean data, clear insights, and reliable reporting.
